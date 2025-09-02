@@ -1,5 +1,41 @@
 # Changelog
 
+## [1.1.0](https://github.com/DanielsJD/StreamViX_Render/compare/v1.0.12...v1.1.0) (2025-09-02)
+
+
+### Features
+
+* **normalize:** add "Attack on Titan OAD" ([dcadc5d](https://github.com/DanielsJD/StreamViX_Render/commit/dcadc5dd2706007d20b2ee01f40fcb4343169041))
+* **normalize:** add "Parasyte: The Maxim" ([6cb4a4b](https://github.com/DanielsJD/StreamViX_Render/commit/6cb4a4b86ab541a08a893e12d2cf708956694850))
+* **normalize:** add "Slam Dunk: Roar!! Basket Man Spiriy" ([3407885](https://github.com/DanielsJD/StreamViX_Render/commit/340788547f5b9f3e7477fc77426790c893d12b6a))
+
+
+### Bug Fixes
+
+* add live script at startup ([1c634ba](https://github.com/DanielsJD/StreamViX_Render/commit/1c634baf0cf9c5c9cc1f0c90d7cb29933bbdee7f))
+* add live script at startup ([1a7fa02](https://github.com/DanielsJD/StreamViX_Render/commit/1a7fa02ac615fc0c6209457f0ade0e00b0d8f12f))
+* add placeholder per anime ([da3a971](https://github.com/DanielsJD/StreamViX_Render/commit/da3a9716fbb0cdb45f9550fa18dd2bc5870ee59c))
+* add stream alternativi su eventi e fix epg ([67db6fb](https://github.com/DanielsJD/StreamViX_Render/commit/67db6fbc471e67153fdca6731089fff531361dd7))
+* anime ([c8d69a1](https://github.com/DanielsJD/StreamViX_Render/commit/c8d69a1d0806938a43069bc34e12915042aee86f))
+* bump version ([93bfec2](https://github.com/DanielsJD/StreamViX_Render/commit/93bfec29c73046170d17e09e50e9f4a8b6c96368))
+* config button ([fddbc7c](https://github.com/DanielsJD/StreamViX_Render/commit/fddbc7c82c6d1672fe95b680821837122b21019a))
+* config button ([4c4219f](https://github.com/DanielsJD/StreamViX_Render/commit/4c4219fb88b3940b018c8bdade36e0fe202c68bc))
+* config button ([4c4219f](https://github.com/DanielsJD/StreamViX_Render/commit/4c4219fb88b3940b018c8bdade36e0fe202c68bc))
+* env ([2f80845](https://github.com/DanielsJD/StreamViX_Render/commit/2f808459f84c36ef62277212d56c0fd9e027bded))
+* epg fix e link alternativi eventi ([9c3c7fd](https://github.com/DanielsJD/StreamViX_Render/commit/9c3c7fd3d50a70ae05687251f47ccfb0fb303a1c))
+* epg fix e link alternativi su eventi ([67db6fb](https://github.com/DanielsJD/StreamViX_Render/commit/67db6fbc471e67153fdca6731089fff531361dd7))
+* fix AW removing placeholder ([728604c](https://github.com/DanielsJD/StreamViX_Render/commit/728604c4d53047b6a2d8bbc6c0c68e462e095ef7))
+* fix AW removing placeholder ([bbbdf2c](https://github.com/DanielsJD/StreamViX_Render/commit/bbbdf2ceb3f9b0c580f10c534532de3c9759db2f))
+* fix AW removing placeholder ([bbbdf2c](https://github.com/DanielsJD/StreamViX_Render/commit/bbbdf2ceb3f9b0c580f10c534532de3c9759db2f))
+* improvments ([b5153fb](https://github.com/DanielsJD/StreamViX_Render/commit/b5153fbfc5940fbcb1facf6d33e6982c5709cf09))
+* improvments ([7b3a2d6](https://github.com/DanielsJD/StreamViX_Render/commit/7b3a2d6e79a9d26ec6ff788516ae423bfb095873))
+* move dynamic channels to /tmp ([4abc561](https://github.com/DanielsJD/StreamViX_Render/commit/4abc5613a66062d0220fc46629f920c64859996f))
+* move dynamic event to /tmp ([4abc561](https://github.com/DanielsJD/StreamViX_Render/commit/4abc5613a66062d0220fc46629f920c64859996f))
+* Update extractor.ts ([2bf1614](https://github.com/DanielsJD/StreamViX_Render/commit/2bf1614055daa22eb0921daaa93b2a610173e012))
+* updating name ([a8c3c2d](https://github.com/DanielsJD/StreamViX_Render/commit/a8c3c2d177f7641af6174e059517d2f659a017e5))
+* vixsrc fhd ([be462ca](https://github.com/DanielsJD/StreamViX_Render/commit/be462cac4aa6d3b88cf1479cedc42c28102224dd))
+* Working toggle - Vixsrc size ([52d0a53](https://github.com/DanielsJD/StreamViX_Render/commit/52d0a53aeabf142258b1ca36c334cc5c58b41032))
+
 ## [1.0.12](https://github.com/qwertyuiop8899/streamvix/compare/v1.0.11...v1.0.12) (2025-09-02)
 
 
