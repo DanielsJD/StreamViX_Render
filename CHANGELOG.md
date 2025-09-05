@@ -1,5 +1,48 @@
 # Changelog
 
+## [1.0.18](https://github.com/DanielsJD/StreamViX_Render/compare/v1.0.17...v1.0.18) (2025-09-05)
+
+
+### Bug Fixes
+
+* add alternative player for GH GS ([3ee17e4](https://github.com/DanielsJD/StreamViX_Render/commit/3ee17e44b65f1b89472492d32dfd4cdcaf5bb911))
+* add gh and gs alternative player ([3ee17e4](https://github.com/DanielsJD/StreamViX_Render/commit/3ee17e44b65f1b89472492d32dfd4cdcaf5bb911))
+* add live script at startup ([1c634ba](https://github.com/DanielsJD/StreamViX_Render/commit/1c634baf0cf9c5c9cc1f0c90d7cb29933bbdee7f))
+* add live script at startup ([1a7fa02](https://github.com/DanielsJD/StreamViX_Render/commit/1a7fa02ac615fc0c6209457f0ade0e00b0d8f12f))
+* add placeholder per anime ([da3a971](https://github.com/DanielsJD/StreamViX_Render/commit/da3a9716fbb0cdb45f9550fa18dd2bc5870ee59c))
+* add stream alternativi su eventi e fix epg ([67db6fb](https://github.com/DanielsJD/StreamViX_Render/commit/67db6fbc471e67153fdca6731089fff531361dd7))
+* anime ([c8d69a1](https://github.com/DanielsJD/StreamViX_Render/commit/c8d69a1d0806938a43069bc34e12915042aee86f))
+* bump version ([93bfec2](https://github.com/DanielsJD/StreamViX_Render/commit/93bfec29c73046170d17e09e50e9f4a8b6c96368))
+* config button ([fddbc7c](https://github.com/DanielsJD/StreamViX_Render/commit/fddbc7c82c6d1672fe95b680821837122b21019a))
+* config button ([4c4219f](https://github.com/DanielsJD/StreamViX_Render/commit/4c4219fb88b3940b018c8bdade36e0fe202c68bc))
+* config button ([4c4219f](https://github.com/DanielsJD/StreamViX_Render/commit/4c4219fb88b3940b018c8bdade36e0fe202c68bc))
+* env ([2f80845](https://github.com/DanielsJD/StreamViX_Render/commit/2f808459f84c36ef62277212d56c0fd9e027bded))
+* epg fix e link alternativi eventi ([9c3c7fd](https://github.com/DanielsJD/StreamViX_Render/commit/9c3c7fd3d50a70ae05687251f47ccfb0fb303a1c))
+* epg fix e link alternativi su eventi ([67db6fb](https://github.com/DanielsJD/StreamViX_Render/commit/67db6fbc471e67153fdca6731089fff531361dd7))
+* false positive ([a60c47d](https://github.com/DanielsJD/StreamViX_Render/commit/a60c47d9162444e41c7fd0c03a4337708e0d2d5f))
+* false positive ([8f0f124](https://github.com/DanielsJD/StreamViX_Render/commit/8f0f1248dee6de85ca8e82cacb5fd9157315cc5a))
+* fix AW removing placeholder ([728604c](https://github.com/DanielsJD/StreamViX_Render/commit/728604c4d53047b6a2d8bbc6c0c68e462e095ef7))
+* fix AW removing placeholder ([bbbdf2c](https://github.com/DanielsJD/StreamViX_Render/commit/bbbdf2ceb3f9b0c580f10c534532de3c9759db2f))
+* fix AW removing placeholder ([bbbdf2c](https://github.com/DanielsJD/StreamViX_Render/commit/bbbdf2ceb3f9b0c580f10c534532de3c9759db2f))
+* fix live.py ([0ff0212](https://github.com/DanielsJD/StreamViX_Render/commit/0ff02122b5d3c44225511a92ba7560d00ce41e92))
+* fix live.py ([92e43f1](https://github.com/DanielsJD/StreamViX_Render/commit/92e43f1129d4b0cd0c1b4373c0f6f6cb916d6a1b))
+* gh gs vix false positive ([2a56cc7](https://github.com/DanielsJD/StreamViX_Render/commit/2a56cc7d68842405897baa43a8e2056074b538b2))
+* improvments ([b5153fb](https://github.com/DanielsJD/StreamViX_Render/commit/b5153fbfc5940fbcb1facf6d33e6982c5709cf09))
+* improvments ([7b3a2d6](https://github.com/DanielsJD/StreamViX_Render/commit/7b3a2d6e79a9d26ec6ff788516ae423bfb095873))
+* live with world soccer bump version ([afc0f9e](https://github.com/DanielsJD/StreamViX_Render/commit/afc0f9ee9fc53858478c4736a0c6f41a4a9b6049))
+* live with world soccer bump version ([afc0f9e](https://github.com/DanielsJD/StreamViX_Render/commit/afc0f9ee9fc53858478c4736a0c6f41a4a9b6049))
+* move dynamic channels to /tmp ([4abc561](https://github.com/DanielsJD/StreamViX_Render/commit/4abc5613a66062d0220fc46629f920c64859996f))
+* move dynamic event to /tmp ([4abc561](https://github.com/DanielsJD/StreamViX_Render/commit/4abc5613a66062d0220fc46629f920c64859996f))
+* name anime and vixsrc ([aea69eb](https://github.com/DanielsJD/StreamViX_Render/commit/aea69eb596ada63837cdeb083444b74b0b06fbfb))
+* name anime with cinemeta and vixsrc ([714c32c](https://github.com/DanielsJD/StreamViX_Render/commit/714c32c71f1556fbd116ef8b382459031d0e4f7b))
+* name anime with cinemeta and vixsrc ([714c32c](https://github.com/DanielsJD/StreamViX_Render/commit/714c32c71f1556fbd116ef8b382459031d0e4f7b))
+* provider guarda ([c3a8ff7](https://github.com/DanielsJD/StreamViX_Render/commit/c3a8ff75fff1353093df5938ce8c5e3524bf8eef))
+* provider Guarda ([60856fc](https://github.com/DanielsJD/StreamViX_Render/commit/60856fc118db82fcd87e5a08dd525fe3f1d03e75))
+* Update extractor.ts ([2bf1614](https://github.com/DanielsJD/StreamViX_Render/commit/2bf1614055daa22eb0921daaa93b2a610173e012))
+* updating name ([a8c3c2d](https://github.com/DanielsJD/StreamViX_Render/commit/a8c3c2d177f7641af6174e059517d2f659a017e5))
+* vixsrc fhd ([be462ca](https://github.com/DanielsJD/StreamViX_Render/commit/be462cac4aa6d3b88cf1479cedc42c28102224dd))
+* Working toggle - Vixsrc size ([52d0a53](https://github.com/DanielsJD/StreamViX_Render/commit/52d0a53aeabf142258b1ca36c334cc5c58b41032))
+
 ## [1.0.17](https://github.com/qwertyuiop8899/streamvix/compare/v1.0.16...v1.0.17) (2025-09-05)
 
 
